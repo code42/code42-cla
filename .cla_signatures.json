@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
-} 
+  "signedContributors": [
+    {
+      "name": "timabrmsn",
+      "id": 12001407,
+      "comment_id": 691288725,
+      "created_at": "2020-09-11T20:05:24Z",
+      "repoId": 235642755,
+      "pullRequestNo": 194
+    }
+  ]
+}
